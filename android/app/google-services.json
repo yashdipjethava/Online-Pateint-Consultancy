@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "461917017068",
+    "project_id": "aarogyam-80aa2",
+    "storage_bucket": "aarogyam-80aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461917017068:android:852a2ce40636e9b2fd26c9",
+        "android_client_info": {
+          "package_name": "com.example.aarogyam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KSYy-dfvGietMHrUz07bc8ZAgzJu-3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461917017068:android:9bf4c40b9f7600fffd26c9",
+        "android_client_info": {
+          "package_name": "com.example.admin_panel_aarogyam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5KSYy-dfvGietMHrUz07bc8ZAgzJu-3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
